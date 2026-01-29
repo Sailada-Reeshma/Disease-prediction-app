@@ -1,0 +1,12 @@
+fever,cough,headache,fatigue,body_ache,stomach_pain,chest_pain,breathlessness,nausea,vomiting,diarrhea,dizziness,joint_pain,back_pain,leg_pain,hand_pain,sore_throat,runny_nose,weakness,loss_of_appetite,increased_thirst,frequent_urination,yellow_eyes,abdominal_pain,prognosis
+1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,Common Cold
+1,1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,Flu
+1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Viral Fever
+0,0,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,1,Gastritis
+0,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Asthma
+0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Heart Disease Risk
+0,0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,1,1,Liver Disease
+0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,Diabetes
+0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Migraine
+0,0,0,1,1,1,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,1,Food Poisoning
+0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Stress Related Disorder
